@@ -1,0 +1,5 @@
+requests
+gTTS
+edge-tts
+sympy
+lameenc
